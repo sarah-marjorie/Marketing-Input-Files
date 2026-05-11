@@ -1,0 +1,3 @@
+- Kai insists CTR is above 3%  
+- Wen says dashboard is lagging  
+- Mira says CRM is missing 4 conversions 
